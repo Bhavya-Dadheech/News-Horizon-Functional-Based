@@ -5,8 +5,11 @@ Dive into the world of breaking news and stay ahead with the latest happenings a
 # Installation
 
 To run the web application locally, you need to install Node.js on your device. Once installed, follow these steps:
+ 
  1.Clone the repository: git clone https://github.com/Bhavya-Dadheech/News-Horizon-Functional-Based.git
+ 
  2.Create a .env.local file in the root folder.
+ 
  3.In the .env, create a variable REACT_APP_NEWS_API='Your Api Key'.Replace 'Your API Key' with your actual API key.
    (You can create a account at NewsApi and get your own api key)
 
