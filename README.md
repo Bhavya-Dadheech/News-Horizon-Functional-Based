@@ -37,7 +37,7 @@ https://github.com/Bhavya-Dadheech/News-Horizon-Functional-Based/assets/70031238
 
 # Contributions
 
-Contributions to the TextUtils are welcome! If you encounter any bugs or issues or have ideas for improvements, please open an issue on the repository. Pull requests with enhancements are also appreciated.
+Contributions to the News Horizon are welcome! If you encounter any bugs or issues or have ideas for improvements, please open an issue on the repository. Pull requests with enhancements are also appreciated.
 
 (If you liked the project, give it a star 😃)
 
